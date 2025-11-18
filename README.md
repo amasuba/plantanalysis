@@ -99,12 +99,12 @@ from the repo root:
 2. In a terminal:
 
    ```bash
-   cd single_board_control_repo
+   cd plantanalysis
    git init
    git add .
    git commit -m "Initial import of single board control project"
    git branch -M main
-   git remote add origin <YOUR_GITHUB_REMOTE_URL>
+   git remote add origin (https://github.com/amasuba/plantanalysis/)
    git push -u origin main
    ```
 
