@@ -104,7 +104,7 @@ from the repo root:
    git add .
    git commit -m "Initial import of single board control project"
    git branch -M main
-   git remote add origin (https://github.com/amasuba/plantanalysis/)
+   git remote add origin https://github.com/amasuba/plantanalysis/
    git push -u origin main
    ```
 
