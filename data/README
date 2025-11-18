@@ -1,0 +1,12 @@
+# Data directory
+
+Place your captured RGB and depth files here, e.g.:
+
+ - `0_degrees_rgb_plant_1.jpg`
+ - `0_degrees_rgb_plant_1.npy`
+ - `180_degrees_depth_plant_2.jpg`
+ - ...
+
+ The capture scripts will save into the working directory by default;
+ you can either run them from the repo root, or adjust paths in the
+ scripts if you want everything to land in this folder.
